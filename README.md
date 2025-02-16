@@ -1,4 +1,4 @@
-# "Crypto Testnet Faucet"
+# "Crypto Testnet Faucets"
 
 || Network | Multichain Faucet |Tokens|
 |---|---|---|----|
